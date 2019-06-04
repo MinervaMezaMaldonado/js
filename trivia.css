@@ -1,0 +1,33 @@
+body {
+    font-size: 20px;
+    color: white;
+  }
+  
+  body {
+    /*quita la barra de desplazamiento vertical*/
+    background-image: url("https://www.pixeden.com/media/k2/galleries/241/002-polygon-subtle-pattern-texture-geometric-customizable-psd.jpg")
+    
+  }
+  
+  
+  h1{
+    color: white;
+  }
+  label { 
+    color: white
+    
+  }
+  /*
+  se declaran atributos de clases generadas desde Javascript
+  */
+  .opciones {
+    font-size: 18px  
+  }
+  
+  .opciones option {
+    font-size: 18px;
+    color: lightblue; 
+    }
+  
+    
+  
