@@ -1,4 +1,4 @@
-# Trivia Chilangeando
+# :star2: Trivia Chilangeando :star2:
 
 ## Descripción
 
