@@ -6,3 +6,6 @@ Este proyecto consiste en  un trivia interactiva para mostrar que tan chilango e
 En la segunda parte aparecen 4 preguntas con sus respectivas opciones que en este caso son dos, despues de que el usuario termina de responder para finalizar se da clik en el botón "enviar respuestas". Por último aparecen los aciertos marcados con verde y los errores en naranja.
 ![GitHub trivia](https://github.com/MinervaMezaMaldonado/js/blob/master/trivia.jpeg)
  
+ ![GitHub trivia](https://github.com/MinervaMezaMaldonado/js/blob/master/ejemplodetrivia.jpeg)
+ 
+ 
