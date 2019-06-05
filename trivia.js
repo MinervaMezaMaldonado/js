@@ -10,7 +10,6 @@ const inicio = document.getElementById("inicio");
 const categorias = document.getElementById("categorias");
 const trivia = document.getElementById("trivia");
 const resultado = document.getElementById("resultados");
-//comentario
 const preguntasSociedad = [
   {
     pregunta: "Al viajar en el transporte público prefieres que el operador...",
