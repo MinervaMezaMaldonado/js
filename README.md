@@ -1,1 +1,4 @@
-# trivia
+# Trivia Chilangeando
+
+## Descripción
+jjhjiji
